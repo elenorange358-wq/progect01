@@ -1,6 +1,6 @@
-massage = "Привет,студенты!"
+massage = "Привет,всем!"
 print(massage)
 
-result = 2 + 2
+result = 3 - 2
 print(result)
 

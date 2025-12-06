@@ -1,3 +1,4 @@
-for i in range(3):
-    j = i + 1
-    print(i, j)
+def draw_star(h, w):
+    for i in (range(h)):
+        print("*" * w)
+draw_star(3, 10)
